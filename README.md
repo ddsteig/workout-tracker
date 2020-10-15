@@ -4,7 +4,7 @@
 
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-  ![Last Workout](https://github.com/ddsteig/workout-tracker/imgs/last.jpg "Last Workout")
+  ![Last Workout](https://github.com/ddsteig/workout-tracker/blob/main/imgs/last.jpg "Last Workout")
 
   ## Table of Contents
   - [Description](#description)
@@ -21,7 +21,7 @@
    
   A workout tracker that stores user data via MongoDB, and MongoDB Atlas. Runs on Heroku server. Users can enter and complete workouts, and track their data with a graphical dashboard.
 
-  ![Workout Dashboard](https://github.com/ddsteig/workout-tracker/imgs/dashboard.jpg "Workout Dashboard")
+  ![Workout Dashboard](https://github.com/ddsteig/workout-tracker/blob/main/imgs/dashboard.jpg "Workout Dashboard")
 
   ### User Story
 
@@ -40,7 +40,7 @@
   
   Also requires installation of Mongo, and Robo 3T software locally.
 
-  ![Robo 3T](https://github.com/ddsteig/workout-tracker/imgs/robo.jpg "Robo 3T")
+  ![Robo 3T](https://github.com/ddsteig/workout-tracker/blob/main/imgs/robo.jpg "Robo 3T")
   
   <hr>
   
@@ -48,7 +48,7 @@
   
   Allows users to add new workouts, or complete workouts, and displays last workout information. Makes use of routes to send and recive data from the database.
 
-  ![Api Routes](https://github.com/ddsteig/workout-tracker/imgs/routes.jpg "Api Routes")
+  ![Api Routes](https://github.com/ddsteig/workout-tracker/blob/main/imgs/routes.jpg "Api Routes")
   
   <hr>
   
